@@ -22,9 +22,9 @@ Chào mừng bạn đến với trang giới thiệu đội ngũ quản lý củ
 - 🔗 LinkedIn: [Lê Minh Khiết](https://www.linkedin.com/in/minhkhiet)
 - 🎉 Lời nhắn: "Marketing là nghệ thuật, và bán thuốc là nghệ thuật giữ cho marketing không bị ốm!"
 
-## Nguyễn Hoàng Nhiệm
+## Trương Hoàng Nhiệm
 
-![Nguyễn Hoàng Nhiệm](hoangnhiem.jpg)
+![Trương Hoàng Nhiệm](hoangnhiem.jpg)
 **Chức vụ:** Phó Giám đốc Kỹ thuật
 
 - 📧 Email: [hoangnhiem@example.com](mailto:hoangnhiem@example.com)
